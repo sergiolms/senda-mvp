@@ -1,2 +1,4 @@
 .sites-runtime/
 .DS_Store
+.openai/
+PLAN.md
